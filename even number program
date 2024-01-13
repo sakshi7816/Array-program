@@ -1,0 +1,18 @@
+import java.util.Scanner;
+class Arrayleven
+{
+public static void main(String[]args)
+{
+Scanner sc=new Scanner(System.in);
+int int_arr[]=new int[5];
+System.out.println("entre the value of int array");
+{
+int_arr[i]=sc.nextInt();
+
+if(int_arr[i]%2==0);
+{
+System.out.println("the number is even" +int_arr[i]);
+}
+}
+}
+}
